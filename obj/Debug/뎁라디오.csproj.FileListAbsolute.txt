@@ -1,0 +1,95 @@
+c:\users\devon\onedrive\documents\visual studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\뎁라디오.exe.config
+c:\users\devon\onedrive\documents\visual studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\뎁라디오.exe
+c:\users\devon\onedrive\documents\visual studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\뎁라디오.pdb
+c:\users\devon\onedrive\documents\visual studio 2015\Projects\뎁라디오\뎁라디오\obj\Debug\뎁라디오.csprojResolveAssemblyReference.cache
+c:\users\devon\onedrive\documents\visual studio 2015\Projects\뎁라디오\뎁라디오\obj\Debug\뎁라디오.Form1.resources
+c:\users\devon\onedrive\documents\visual studio 2015\Projects\뎁라디오\뎁라디오\obj\Debug\뎁라디오.Properties.Resources.resources
+c:\users\devon\onedrive\documents\visual studio 2015\Projects\뎁라디오\뎁라디오\obj\Debug\뎁라디오.csproj.GenerateResource.Cache
+c:\users\devon\onedrive\documents\visual studio 2015\Projects\뎁라디오\뎁라디오\obj\Debug\뎁라디오.exe
+c:\users\devon\onedrive\documents\visual studio 2015\Projects\뎁라디오\뎁라디오\obj\Debug\뎁라디오.pdb
+c:\users\devon\onedrive\documents\visual studio 2015\Projects\뎁라디오\뎁라디오\obj\Debug\뎁라디오.AddItem.resources
+C:\Users\devon\OneDrive\documents\visual studio 2015\Projects\뎁라디오\뎁라디오\obj\Debug\뎁라디오.EditItem.resources
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\뎁라디오.exe.config
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\obj\Debug\뎁라디오.exe
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\obj\Debug\뎁라디오.pdb
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\뎁라디오.exe
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\뎁라디오.pdb
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\obj\Debug\뎁라디오.csprojResolveAssemblyReference.cache
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\obj\Debug\뎁라디오.AddItem.resources
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\obj\Debug\뎁라디오.EditItem.resources
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\obj\Debug\뎁라디오.Form1.resources
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\obj\Debug\뎁라디오.Properties.Resources.resources
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\obj\Debug\뎁라디오.csproj.GenerateResource.Cache
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\Google.Apis.Auth.dll
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\Google.Apis.Core.dll
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\Google.Apis.dll
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\log4net.dll
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\Newtonsoft.Json.dll
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\Zlib.Portable.dll
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\Google.Apis.pdb
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\Google.Apis.xml
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\Google.Apis.Auth.xml
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\Google.Apis.Core.pdb
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\Google.Apis.Core.xml
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\log4net.xml
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\Newtonsoft.Json.xml
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\bin\Debug\Zlib.Portable.xml
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오\뎁라디오\obj\Debug\뎁라디오.NowPlayingSetting.resources
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\bin\Debug\뎁라디오.exe.config
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\obj\Debug\뎁라디오.exe
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\obj\Debug\뎁라디오.pdb
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\bin\Debug\뎁라디오.exe
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\bin\Debug\뎁라디오.pdb
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\bin\Debug\Google.Apis.Auth.dll
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\bin\Debug\Google.Apis.Core.dll
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\bin\Debug\Google.Apis.dll
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\bin\Debug\log4net.dll
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\bin\Debug\Newtonsoft.Json.dll
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\bin\Debug\Zlib.Portable.dll
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\bin\Debug\Google.Apis.pdb
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\bin\Debug\Google.Apis.xml
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\bin\Debug\Google.Apis.Auth.xml
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\bin\Debug\Google.Apis.Core.pdb
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\bin\Debug\Google.Apis.Core.xml
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\bin\Debug\log4net.xml
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\bin\Debug\Newtonsoft.Json.xml
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\bin\Debug\Zlib.Portable.xml
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\obj\Debug\뎁라디오.csprojResolveAssemblyReference.cache
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\obj\Debug\뎁라디오.AddItem.resources
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\obj\Debug\뎁라디오.EditItem.resources
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\obj\Debug\뎁라디오.Form1.resources
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\obj\Debug\뎁라디오.NowPlayingSetting.resources
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\obj\Debug\뎁라디오.Properties.Resources.resources
+C:\Users\뎁온누리\Documents\Visual Studio 2015\Projects\뎁라디오 - 베타\뎁라디오\obj\Debug\뎁라디오.csproj.GenerateResource.Cache
